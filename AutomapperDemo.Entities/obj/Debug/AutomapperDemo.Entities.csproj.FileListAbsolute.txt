@@ -1,0 +1,5 @@
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2015\Projects\Automapper_Demo\AutomapperDemo.Entities\bin\Debug\AutomapperDemo.Entities.dll
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2015\Projects\Automapper_Demo\AutomapperDemo.Entities\bin\Debug\AutomapperDemo.Entities.pdb
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2015\Projects\Automapper_Demo\AutomapperDemo.Entities\obj\Debug\AutomapperDemo.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2015\Projects\Automapper_Demo\AutomapperDemo.Entities\obj\Debug\AutomapperDemo.Entities.dll
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2015\Projects\Automapper_Demo\AutomapperDemo.Entities\obj\Debug\AutomapperDemo.Entities.pdb

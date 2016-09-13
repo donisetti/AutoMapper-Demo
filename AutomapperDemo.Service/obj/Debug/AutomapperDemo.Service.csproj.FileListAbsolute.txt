@@ -1,0 +1,5 @@
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2015\Projects\Automapper_Demo\AutomapperDemo.Service\bin\Debug\AutomapperDemo.Service.dll
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2015\Projects\Automapper_Demo\AutomapperDemo.Service\bin\Debug\AutomapperDemo.Service.pdb
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2015\Projects\Automapper_Demo\AutomapperDemo.Service\obj\Debug\AutomapperDemo.Service.csprojResolveAssemblyReference.cache
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2015\Projects\Automapper_Demo\AutomapperDemo.Service\obj\Debug\AutomapperDemo.Service.dll
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2015\Projects\Automapper_Demo\AutomapperDemo.Service\obj\Debug\AutomapperDemo.Service.pdb
